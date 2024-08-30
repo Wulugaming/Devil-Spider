@@ -1,5 +1,5 @@
 {
-    "name": "zetsubo-md",
+    "name": "wulu-md",
     "version": "1.0.0",
     "description": "up",
     "main": "index.js",
@@ -11,7 +11,7 @@
         "whiskeysockets",
         "multi-device"
     ],
-    "author": "thezetsuboxygen",
+    "author": "wulu",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
